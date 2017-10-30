@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About\"\noutput:\n  html_document:\n    toc: true\n    toc_float: true\n---\n\n### Previous Research\n\n## 2016 - 2017\n\nI continued to conduct research with Dr. Feingold on the nutrient and contaminant levels of wild and farmed salmon. When I began the project, our hypothesis was that over time there would be a decrease in nutrient levels of farmed salmon, due to the shift from fish oil to other forms of fish feed such as soybeans. This is important to the lives of individuals all around the world, as many individuals consume fish for the nutrients (omega-3 fatty acids) they contain without realizing the potential drawbacks from contamination by persistent organic pollutants (POPs) such as polychlorinated biphenyls (PCBs) and polybrominated diphenyl ethers (PBDEs). Furthermore, there has been a great shift towards farmed fish in order to meet the demand for fish. \n\n## 2015 - 2016\n\nThrough my MPH program I was able to study the nutritional transition in Peru under the mentorship of [Dr. Beth Feingold, PhD](http://www.albany.edu/sph/57616.php). Peruvians living near a newly built highway began shifting from diets of fresh foods towards more westernized diets due to access to new foods—foods that are regularly eaten in America. Paradoxically, locations like New York City are considered food deserts because access to reasonably priced fresh produce is challenging.\n\n## 2014 - 2015\n\nMy first insight into the field of public health was acquired under the mentorship of [Dr. Sara Brenner, MD, MPH](https://sunypoly.edu/research/team-brenner/people.html), where I researched the biodistribution of nanoparticles following inhalation exposure in rat models. I trained in light and dark field microscopy, as well as the histology of organs in order to determine how far particles that are found in many everyday products (yet are invisible to the naked eye), travel within the body once inhaled. \n\n## 2013 - 2014\n\nMy first experience with research was through the [University at Albany Summer Research Program (UASRP)](http://www.albany.edu/oaae/uasrp.shtml). The program is designed to increase the amount of underrepresented students in graduate studies through exposure to research. With the guidance of inquisitive mentors, [Dr. Shaker Mousa, PhD](https://pri-albany.org/pri-staff/shaker-a-mousa-phd-mba-facc-facb/) and [Dr. Vandhana M-Chari, PhD](https://pri-albany.org/pri-staff/vandhana-m-chari-phd/), I discovered that I enjoyed the critical thinking and reasoning skills utilized in my study of anticoagulants. Through this opportunity, I published a paper entitled, [\"Thymoquinone Modulates Blood Coagulation in Vitro via Its Effects on Inflammatory and Coagulation Pathways\"](https://www.ncbi.nlm.nih.gov/pubmed/27043539). \n",
+    "created" : 1509341119598.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1729235034",
+    "id" : "97E8A81D",
+    "lastKnownWriteTime" : 1509341175,
+    "last_content_update" : 1509341175251,
+    "path" : "~/Documents/Columbia/Data Science I/aabuawad.github.io/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

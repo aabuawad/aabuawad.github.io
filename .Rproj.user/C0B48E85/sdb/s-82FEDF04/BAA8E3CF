@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "name: \"Ahlam Abuawad\"\noutput_dir: \".\"\nnavbar:\n  title: \"Home\"\n  right:\n    - text: \"About\"\n      href: about.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<aka2170@cumc.columbia.edu>\n    - icon: fa-github fa-lg\n      href: http://github.com/<aabuawad>/\noutput:\n  html_document:\n    theme: flatly",
+    "contents" : "name: \"Ahlam Abuawad\"\noutput_dir: \".\"\nnavbar:\n  title: \"Home\"\n  right:\n    - text: \"About\"\n      href: about.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<aka2170@cumc.columbia.edu>\n    - icon: fa-github fa-lg\n      href: https://github.com/<aabuawad>/\noutput:\n  html_document:\n    theme: flatly",
     "created" : 1509341077505.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1478306343",
+    "hash" : "1574753725",
     "id" : "BAA8E3CF",
-    "lastKnownWriteTime" : 1509341116,
-    "last_content_update" : 1509341116180,
+    "lastKnownWriteTime" : 1509341358,
+    "last_content_update" : 1509341358420,
     "path" : "~/Documents/Columbia/Data Science I/aabuawad.github.io/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {

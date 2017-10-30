@@ -8,7 +8,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<aka2170@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: <https://github.com/aabuawad>
+      href: http://github.com/aabuawad/
 output:
   html_document:
     theme: flatly

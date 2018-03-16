@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -208,26 +210,26 @@ $(document).ready(function () {
 </div>
 
 
-<div id="phd-candidate-in-environmental-health-sciences-columbia-mailman-school-of-public-health" class="section level3">
+<section id="phd-candidate-in-environmental-health-sciences-columbia-mailman-school-of-public-health" class="level3">
 <h3>PhD Candidate in Environmental Health Sciences, Columbia Mailman School of Public Health</h3>
 <p><br><img src = "Images/profile.png" style = "width:60%"><br></p>
 <p>I grew up in Brooklyn, New York and received my BS in Biology and BA in Chemistry from the <a href="http://www.albany.edu/">University at Albany, State University of New York</a> in 2015. Throughout my undergraduate studies, I volunteered as an Emergency Medical Technician (EMT-B) and CPR instructor, while also conducting research in my spare time. My research in the biodistribution of nanoparticles in rat models sparked an interest in public health. Continuing my studies, I earned a Master’s in Public Health (MPH) with a concentration in Environmental Health from the <a href="http://www.albany.edu/sph/">University at Albany School of Public Health</a> in 2017. During my MPH program, I studied the nutrient transition in Peru due to exposure to a Western diet as well as nutrient and contaminant levels of farmed and wild salmon.</p>
 <p>At <a href="https://www.mailman.columbia.edu/">Columbia University’s Mailman School of Public Health</a>, I hope to expand my knowledge of environmental exposures and related health outcomes in historically underrepresented groups.</p>
 <p><br></p>
-<div id="resume" class="section level4">
-<h4>Resume</h4>
-<p>My full resume is available <a href="Downloads/AKA_Resume.pdf">here</a>.</p>
+<section id="curriculum-vitae" class="level4">
+<h4>Curriculum Vitae</h4>
+<p>My CV can be accessed <a href="Downloads/AKA_CV.pdf">here</a>.</p>
 <p><br></p>
-</div>
-<div id="contact-information" class="section level4">
+</section>
+<section id="contact-information" class="level4">
 <h4>Contact Information</h4>
 <p>Ahlam Abuawad <a href="https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs">Department of Environmental Health Sciences</a><br />
 <a href="http://www.mailman.columbia.edu/">Columbia Mailman School of Public Health</a><br />
 722 West 168th Street<br />
 New York, New York 10032</p>
 <p>Email: <a href="mailto:aka2170@cumc.columbia.edu">aka2170@cumc.columbia.edu</a></p>
-</div>
-</div>
+</section>
+</section>
 
 
 

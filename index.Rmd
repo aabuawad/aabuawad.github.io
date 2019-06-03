@@ -4,7 +4,11 @@ title: "Doctoral Student"
 
 ### Environmental Health Sciences, Columbia Mailman School of Public Health
 
-<br><img src = "Images/profile.png" style = "width:60%"><br>
+<br>
+<p align = "center">
+<img src = "Images/profile.png" style = "width:60%">
+</p>
+<br>
 
 I grew up in Brooklyn, New York and received my BS in Biology and BA in Chemistry from the [University at Albany, State University of New York](http://www.albany.edu/) in 2015. Throughout my undergraduate studies, I volunteered as an Emergency Medical Technician (EMT-B) and CPR instructor, while also conducting research in my spare time. 
 My research in the biodistribution of nanoparticles in rat models sparked an interest in public health. Continuing my studies, I earned a Master’s in Public Health (MPH) with a concentration in Environmental Health from the [University at Albany School of Public Health](http://www.albany.edu/sph/) in 2017. During my MPH program, I studied the nutrient transition in Peru due to exposure to a Western diet as well as nutrient and contaminant levels of farmed and wild salmon. 

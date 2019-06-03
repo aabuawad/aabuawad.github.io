@@ -1,8 +1,8 @@
 ---
-title: "Ahlam Abuawad"
+title: "Doctoral Student"
 ---
 
-### Doctoral Student in Environmental Health Sciences, Columbia Mailman School of Public Health
+### Environmental Health Sciences, Columbia Mailman School of Public Health
 
 <br><img src = "Images/profile.png" style = "width:60%"><br>
 

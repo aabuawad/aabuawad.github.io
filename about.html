@@ -11,11 +11,11 @@
 
 
 
-<title>About</title>
+<title>Previous Research</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -23,9 +23,11 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -34,10 +36,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -92,6 +96,9 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
 }
@@ -101,34 +108,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 60px;
+  padding-top: 41px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 65px;
-  margin-top: -65px;
+  padding-top: 46px;
+  margin-top: -46px;
 }
 
 .section h2 {
-  padding-top: 65px;
-  margin-top: -65px;
+  padding-top: 46px;
+  margin-top: -46px;
 }
 .section h3 {
-  padding-top: 65px;
-  margin-top: -65px;
+  padding-top: 46px;
+  margin-top: -46px;
 }
 .section h4 {
-  padding-top: 65px;
-  margin-top: -65px;
+  padding-top: 46px;
+  margin-top: -46px;
 }
 .section h5 {
-  padding-top: 65px;
-  margin-top: -65px;
+  padding-top: 46px;
+  margin-top: -46px;
 }
 .section h6 {
-  padding-top: 65px;
-  margin-top: -65px;
+  padding-top: 46px;
+  margin-top: -46px;
 }
 </style>
 
@@ -270,7 +277,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Home</a>
+      <a class="navbar-brand" href="index.html">Ahlam Abuawad</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -278,7 +285,10 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="about.html">About</a>
+  <a href="about.html">Previous Research</a>
+</li>
+<li>
+  <a href="http://blogs.cuit.columbia.edu/columbiasrp/">Columbia SRP Blog</a>
 </li>
 <li>
   <a href="mailto:&lt;aka2170@cumc.columbia.edu&gt;">
@@ -287,7 +297,13 @@ div.tocify {
   </a>
 </li>
 <li>
-  <a href="http://github.com/&lt;aabuawad&gt;/">
+  <a href="https://www.linkedin.com/in/ahlam-abuawad-1b3880126/">
+    <span class="fa fa fa fa-linkedin-square fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/aabuawad">
     <span class="fa fa-github fa-lg"></span>
      
   </a>
@@ -301,14 +317,11 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">About</h1>
+<h1 class="title toc-ignore">Previous Research</h1>
 
 </div>
 
 
-<div id="previous-research" class="section level3">
-<h3>Previous Research</h3>
-</div>
 <div id="section" class="section level2">
 <h2>2016 - 2017</h2>
 <p>I continued to conduct research with Dr. Feingold on the nutrient and contaminant levels of wild and farmed salmon. When I began the project, our hypothesis was that over time there would be a decrease in nutrient levels of farmed salmon, due to the shift from fish oil to other forms of fish feed such as soybeans. This is important to the lives of individuals all around the world, as many individuals consume fish for the nutrients (omega-3 fatty acids) they contain without realizing the potential drawbacks from contamination by persistent organic pollutants (POPs) such as polychlorinated biphenyls (PCBs) and polybrominated diphenyl ethers (PBDEs). Furthermore, there has been a great shift towards farmed fish in order to meet the demand for fish.</p>

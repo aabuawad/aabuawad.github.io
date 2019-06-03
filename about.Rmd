@@ -1,12 +1,10 @@
 ---
-title: "About"
+title: "Previous Research"
 output:
   html_document:
     toc: true
     toc_float: true
 ---
-
-### Previous Research
 
 ## 2016 - 2017
 

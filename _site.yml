@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Previous Research"
       href: about.html
-    - icon: "Columbia SRP Blog"
+    - text: "Columbia SRP Blog"
       href: http://blogs.cuit.columbia.edu/columbiasrp/
     - icon: fa-envelope fa-lg
       href: mailto:<aka2170@cumc.columbia.edu>

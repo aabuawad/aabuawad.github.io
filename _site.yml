@@ -1,7 +1,7 @@
 name: "Ahlam Abuawad"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Ahlam Abuawad"
   right:
     - text: "About"
       href: about.html

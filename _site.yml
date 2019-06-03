@@ -9,7 +9,7 @@ navbar:
       href: http://blogs.cuit.columbia.edu/columbiasrp/
     - icon: fa-envelope fa-lg
       href: mailto:<aka2170@cumc.columbia.edu>
-    - icon: fa fa-linkedin-square
+    - icon: fa fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/ahlam-abuawad-1b3880126/
     - icon: fa-github fa-lg
       href: https://github.com/aabuawad

@@ -1,7 +1,8 @@
 name: "Previous Research"
 output_dir: "."
 navbar:
-  title: "Ahlam Abuawad"
+  title: "Home"
+  + title: <i class="fas fa-home fa-lg"></i>
   right:
     - text: "Previous Research"
       href: about.html
@@ -15,4 +16,4 @@ navbar:
       href: https://github.com/aabuawad
 output:
   html_document:
-    theme: simplex
+    theme: yeti

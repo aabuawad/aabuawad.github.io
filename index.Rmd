@@ -4,7 +4,7 @@ title: "Ahlam Abuawad"
 
 <br>
 
-### Doctoral Candidate
+### Research Scientist
 
 <img src = "Images/ehs_logo_horizontal.png" style = "width:40%"> 
 <br>
@@ -12,7 +12,7 @@ title: "Ahlam Abuawad"
 <br>
 
 <p>
-<img src = "Images/profile.png" style = "width:40%" align = "right" hspace = "75" vspace = "25">
+<img src = "Images/Ahlam_Abuawad_Headshot.jpg" style = "width:35%" align = "right" hspace = "75" vspace = "35">
 </p>
 
 <br>

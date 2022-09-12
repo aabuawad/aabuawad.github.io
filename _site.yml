@@ -16,4 +16,4 @@ navbar:
       href: https://github.com/aabuawad
 output:
   html_document:
-    theme: yeti
+    theme: cosmo

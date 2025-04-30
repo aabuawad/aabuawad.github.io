@@ -1,33 +1,45 @@
 ---
-title: "Ahlam Abuawad"
+title: ""
 ---
 
-<br>
-
-### Research Scientist
-
-<img src = "Images/ehs_logo_horizontal.png" style = "width:40%"> 
-<br>
-<br>
-<br>
-
 <p>
-<img src = "Images/Ahlam_Abuawad_Headshot.jpg" style = "width:35%" align = "right" hspace = "75" vspace = "35">
+<img src = "Images/profile.png" style = "width:25%" align = "left" hspace = "75" vspace = "25">
 </p>
 
 <br>
 <br>
 
-<p style="text-align: left; width:50%">
-Ahlam received a BS in Biology and a BA in Chemistry from the [University at Albany, State University of New York](http://www.albany.edu/) in 2015. Throughout her undergraduate studies, Ahlam volunteered as an Emergency Medical Technician (EMT-B) and CPR instructor, while also conducting research in her spare time.
+# **Ahlam Abuawad**
+## Postdoctoral Fellow
+
+<img src = "Images/Dartmouth_Epi_Logo.jpeg" style = "width:30%" align = "left">
 
 <br>
 
-Ahlam's research on the biodistribution of nanoparticles in rat models sparked her interest in public health. Continuing her studies, Ahlam earned a Master’s in Public Health (MPH) with a concentration in Environmental Health from the [University at Albany School of Public Health](http://www.albany.edu/sph/) in 2017. During her MPH program, Ahlam studied the nutrient transition in Peru due to exposure to a Western diet as well as nutrient and contaminant levels of farmed and wild salmon. 
+#### [Geisel School of Medicine at Dartmouth, Department of Epidemiology](https://geiselmed.dartmouth.edu/epidemiology/)
+ 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Biography 
+
+<p style="text-align: right; width:50%">
+Ahlam received a BS in Biology and a BA in Chemistry from the [University at Albany, State University of New York](http://www.albany.edu/) in 2015. Throughout her undergraduate studies, Ahlam volunteered as an Emergency Medical Technician (EMT-B) and CPR instructor for [Five Quad Volunteer Ambulance Service](https://www.albany.edu/five-quad), while also conducting research in her spare time.
 
 <br>
 
-At [Columbia University's Mailman School of Public Health](https://www.mailman.columbia.edu/), Ahlam has expanded her knowledge of environmental exposures and related health outcomes in historically underrepresented groups.
+Ahlam's research on the biodistribution of nanoparticles in rat models sparked her interest in public health. Continuing her studies, Ahlam earned a Master of Public Health (MPH) with a concentration in Environmental Health from the [University at Albany School of Public Health](http://www.albany.edu/sph/) in 2017. During her MPH program, Ahlam studied the nutrient transition in Peru due to exposure to a Western diet as well as nutrient and contaminant levels of farmed and wild salmon. 
+
+<br>
+
+At [Columbia University's Mailman School of Public Health](https://www.mailman.columbia.edu/), Ahlam expanded her knowledge of environmental exposures, nutrition, and metabolic health outcomes in Bangladeshi and American Indian populations. Ahlam earned her Master of Philosophy (MPhil) and Doctor of Philosophy (PhD) in Environmental Health Sciences in 2020 and 2022, respectively. 
+
+<br>
+
+Ahlam is currently a postdoctoral fellow at the [Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/) researching arsenic exposure, metabolomics, and metabolic health outcomes in early life exposures. 
 
 <br>
 
@@ -41,11 +53,14 @@ Ahlam's CV can be accessed [here](Downloads/AKA_CV.pdf).
 ### <i class="far fa-address-card fa-lg"></i>
 
 Ahlam Abuawad
-[Department of Environmental Health Sciences](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs)  
-[Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/)  
-722 West 168th Street  
-New York, New York 10032  
-Email: [aka2170@cumc.columbia.edu](mailto:aka2170@cumc.columbia.edu)  
+<br>
+[Department of Epidemiology](https://geiselmed.dartmouth.edu/epidemiology/)  
+[Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/) 
+<br>
+1 Medical Center Drive  
+DHMC | Lebanon, NH 03756
+<br>
+Email: [ahlam.k.abuawad@dartmouth.edu](mailto:ahlam.k.abuawad@dartmouth.edu)  
 </p>
 
 

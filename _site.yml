@@ -1,15 +1,15 @@
-name: "Previous Research"
+name: "Research"
 output_dir: "."
 navbar:
   title: "Home"
   + title: <i class="fas fa-home fa-lg"></i>
   right:
-    - text: "Previous Research"
+    - text: "Research"
       href: about.html
     - text: "Columbia SRP Blog"
       href: http://blogs.cuit.columbia.edu/columbiasrp/
     - icon: fa-envelope fa-lg
-      href: mailto:<aka2170@cumc.columbia.edu>
+      href: mailto:<ahlam.k.abuawad@dartmouth.edu>
     - icon: fa fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/ahlam-abuawad-1b3880126/
     - icon: fa-github fa-lg
